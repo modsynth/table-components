@@ -1,0 +1,11 @@
+{
+  "name": "@modsynth/table-components",
+  "version": "0.1.0",
+  "description": "Table components (TanStack Table)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Modsynth Team",
+  "license": "MIT",
+  "peerDependencies": {"react": "^18.0.0", "@tanstack/react-table": "^8.0.0"},
+  "dependencies": {"@modsynth/ui-components": "*"}
+}

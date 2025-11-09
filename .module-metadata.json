@@ -1,0 +1,1 @@
+{"name": "table-components", "version": "0.1.0", "description": "Table components (TanStack Table)", "type": "library", "language": "typescript", "category": "frontend", "maintainers": [{"name": "Modsynth Team"}], "dependencies": {"runtime": ["ui-components"]}, "techStack": ["React", "TanStack Table", "TypeScript"]}
