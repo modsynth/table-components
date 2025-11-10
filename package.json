@@ -6,6 +6,14 @@
   "types": "dist/index.d.ts",
   "author": "Modsynth Team",
   "license": "MIT",
-  "peerDependencies": {"react": "^18.0.0", "@tanstack/react-table": "^8.0.0"},
-  "dependencies": {"@modsynth/ui-components": "*"}
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "@tanstack/react-table": "^8.0.0"
+  },
+  "dependencies": {
+    "@modsynth/ui-components": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
